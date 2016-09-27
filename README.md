@@ -28,9 +28,12 @@ You can get a free trial at https://www.kintone.com/ , or look through APIS and 
 Shows a log-in screen for the view. You can type anything into the password, and click enter to log in.  
 A mac UI type window will show you information about your application.
 
-# What is this for?
+# So What is this for?
  This is just a customization to try out various html, js and css tricks.  
  Placing a proper password lock on this view is in no way secure, so please do not try it. People will be able to view that password if it's hard coded into your js file.  
  Please refer to this customization as a way of using the Custom View, a way to use REST API to gather information, and away to change the look and feel of kintone completely.
 
 This is more of a test customization more than anything else. 
+
+# Limitations
+Only tested on Windows Chrome browsers
